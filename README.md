@@ -1,2 +1,2 @@
 # VerticalString
-VerticalString project
+VerticalString project - base project file
